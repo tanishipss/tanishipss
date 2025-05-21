@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanishipss
-- 👀 I’m interested in web development , Java, python and cybersecurity.
-- 🌱 I’m currently learning web development,python and cybersecurity.
+- 👀 I’m interested in web development , Java, python and Artificial Intelligence & Machine learning.
+- 🌱 I’m currently learning web development,python and Artificial Intelligence .
 - 💞️ I’m looking to collaborate on ...
 - 😄 She/her
   
