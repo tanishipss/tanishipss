@@ -1,55 +1,70 @@
 ## 👋 Hi, I’m Tanisha Yadav (@tanishipss)
 
-🎓 B.Tech | 💻 Aspiring AI/ML Engineer | 🧠 Problem-Solving Focused  
-Interested in **AI-driven systems**, **machine learning applications**, and **scalable software development**.
+🎓 B.Tech | 💻 AI/ML Engineer | 🌐 Full-Stack Web Development  
+Strong background in **Machine Learning, Deep Learning**, and **software engineering fundamentals**.
 
-I focus on building **production-oriented projects** that solve real-world problems using **Python, Machine Learning, and structured system design**.
+I enjoy building **end-to-end intelligent systems** — from data preprocessing and model design to application-level integration using clean, maintainable code.
 
 ---
 
 ## 🎯 Career Focus
 - AI / Machine Learning Engineer  
+- Deep Learning Engineer  
 - Software Engineer (Backend / ML-focused)  
-- Data-driven system development  
 
-Actively preparing for **high-impact entry–mid level roles (8–14 LPA)**.
-
----
-
-## 🧠 Core Skills
-- **Programming:** Python, Java  
-- **Machine Learning:** Supervised ML, model evaluation, feature engineering  
-- **Data Handling:** NumPy, Pandas, data preprocessing  
-- **Visualization:** Matplotlib, Seaborn  
-- **Software Practices:** Modular code, Git version control  
-- **GUI & Tools:** Tkinter, GitHub  
+Actively targeting **high-impact entry–mid level roles (8–14 LPA)**.
 
 ---
 
-## 🛠️ Key Project
+## 🧠 Core Expertise
+
+### Machine Learning & Deep Learning
+- Supervised & unsupervised learning techniques  
+- Feature engineering, model evaluation & optimization  
+- Deep Learning fundamentals (neural networks, regularization, optimization)  
+- Practical experience applying ML/DL to **real-world security and data problems**
+
+### Programming & Software Engineering
+- **Python (advanced)**, Java  
+- Writing modular, scalable, production-oriented code  
+- Git-based version control & collaborative workflows  
+
+### Data & Visualization
+- NumPy, Pandas for data processing  
+- Matplotlib, Seaborn for analysis & insights  
+
+### Web Development
+- Frontend: HTML, CSS, JavaScript  
+- Backend fundamentals & application integration  
+- Experience connecting ML logic with user-facing applications  
+
+---
+
+## 🛠️ Key Project Highlight
+
 ### 🔐 AI-Based Network Intrusion Detection & Prevention System
-- Designed an ML-based system to detect and prevent malicious network activity  
-- Implemented **model training, testing, and accuracy comparison**  
-- Built a **GUI interface** for user interaction and monitoring  
-- Focused on **real-time detection and system scalability**
+- Designed and implemented an ML-driven system to detect and prevent malicious network activity  
+- Trained and evaluated multiple ML models to identify best-performing algorithms  
+- Built a **GUI-based interface** for interaction, training, testing, and visualization  
+- Focused on **scalability, accuracy, and real-world applicability**
 
-👉 Repositories reflect **end-to-end project ownership**, not just demos.
+👉 My repositories reflect **ownership of complete systems**, not just isolated models.
 
 ---
 
 ## 📈 Currently Strengthening
-- Advanced ML concepts & model optimization  
-- Backend fundamentals & APIs  
-- Data structures & algorithmic thinking  
-- Writing clean, maintainable, production-ready code  
+- Advanced Deep Learning architectures  
+- Backend system design & APIs  
+- Data structures and algorithmic problem solving  
+- Writing production-grade ML pipelines  
 
 ---
 
-## 💞️ Open to Collaborations
-- AI / ML system projects  
-- Python-based backend applications  
-- Security + AI use cases  
-- Open-source contributions with real impact  
+## 💞️ Open to Collaborate On
+- ML / DL system design projects  
+- AI + Web integrated applications  
+- Security, automation, and data-driven products  
+- Meaningful open-source contributions  
 
 ---
 
@@ -57,4 +72,4 @@ Actively preparing for **high-impact entry–mid level roles (8–14 LPA)**.
 - GitHub: https://github.com/tanishipss  
 
 😄 Pronouns: She/Her  
-⚡ Consistent learner | Systems thinker | Growth-oriented
+⚡ Curious by nature | System-level thinker | Growth-driven engineer
