@@ -12,8 +12,6 @@ I enjoy building **end-to-end intelligent systems** — from data preprocessing 
 - Deep Learning Engineer  
 - Software Engineer (Backend / ML-focused)  
 
-Actively targeting **high-impact entry–mid level roles (8–14 LPA)**.
-
 ---
 
 ## 🧠 Core Expertise
