@@ -71,3 +71,6 @@ I enjoy building **end-to-end intelligent systems** — from data preprocessing 
 
 😄 Pronouns: She/Her  
 ⚡ Curious by nature | System-level thinker | Growth-driven engineer
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tanishipss&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
